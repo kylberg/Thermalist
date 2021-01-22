@@ -4,7 +4,12 @@
 ## Background
 I bought a Adafruit MLX90640 24x32 thermal camera module a couple of years ago. I recently got arount to interface with it from a Raspberry Pi via Python. Now with this repo I switch platform to ESP32 to create a handheld inexpensive thermal camera.  
 
-## Parts list
+
+### Similar projects
+After sourcing the material I stumbeled upon this great project: https://github.com/blackcj/esp32-thermal-camera
+
+I now believe I'm on a good track.
+## Component list
 - LILYGO TTGO ESP32 Module bought from Banggood
 - Adafruit MLX90640 24x32 IR Thermal Camera Breakout - 110 Degree FoV
 - LiPo battery
