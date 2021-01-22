@@ -1,0 +1,2 @@
+# Thermalist
+Inexpensive thermal camera
